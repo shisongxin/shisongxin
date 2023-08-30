@@ -1,2 +1,3 @@
 print("Hello world!")
-print("ABCDE")
+print("ABCD")
+print("yes!")
